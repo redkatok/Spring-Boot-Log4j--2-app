@@ -1,0 +1,14 @@
+2019-12-06 13:41:10.589  INFO LAPTOP-DA6DBBA5 --- [           main] c.k.a.Application                        : Starting Application on LAPTOP-DA6DBBA5 with PID 18996 (C:\Users\Asus\Desktop\calicodes\Spring-Boot-Log4j--2-app\target\classes started by Asus in C:\Users\Asus\Desktop\calicodes\Spring-Boot-Log4j--2-app)
+2019-12-06 13:41:10.594  INFO LAPTOP-DA6DBBA5 --- [           main] c.k.a.Application                        : No active profile set, falling back to default profiles: default
+2019-12-06 13:41:11.153  INFO LAPTOP-DA6DBBA5 --- [           main] c.k.a.Application                        : Started Application in 1.102 seconds (JVM running for 3.381)
+2019-12-06 13:41:11.154  INFO LAPTOP-DA6DBBA5 --- [           main] c.k.a.Application                        : Info log
+2019-12-06 13:41:11.155  WARN LAPTOP-DA6DBBA5 --- [           main] c.k.a.Application                        : Hey, This is a warning!
+2019-12-06 13:41:11.155 ERROR LAPTOP-DA6DBBA5 --- [           main] c.k.a.Application                        : Oops! We have an Error. OK
+2019-12-06 13:41:11.155 FATAL LAPTOP-DA6DBBA5 --- [           main] c.k.a.Application                        : Damn! Fatal error. Please fix me.
+2019-12-06 13:42:54.571  INFO LAPTOP-DA6DBBA5 --- [           main] c.k.a.Application                        : Starting Application on LAPTOP-DA6DBBA5 with PID 16164 (C:\Users\Asus\Desktop\calicodes\Spring-Boot-Log4j--2-app\target\classes started by Asus in C:\Users\Asus\Desktop\calicodes\Spring-Boot-Log4j--2-app)
+2019-12-06 13:42:54.576  INFO LAPTOP-DA6DBBA5 --- [           main] c.k.a.Application                        : No active profile set, falling back to default profiles: default
+2019-12-06 13:42:55.076  INFO LAPTOP-DA6DBBA5 --- [           main] c.k.a.Application                        : Started Application in 0.821 seconds (JVM running for 2.81)
+2019-12-06 13:42:55.077  INFO LAPTOP-DA6DBBA5 --- [           main] c.k.a.Application                        : Info log
+2019-12-06 13:42:55.077  WARN LAPTOP-DA6DBBA5 --- [           main] c.k.a.Application                        : Hey, This is a warning!
+2019-12-06 13:42:55.077 ERROR LAPTOP-DA6DBBA5 --- [           main] c.k.a.Application                        : Oops! We have an Error. OK
+2019-12-06 13:42:55.077 FATAL LAPTOP-DA6DBBA5 --- [           main] c.k.a.Application                        : Damn! Fatal error. Please fix me.
